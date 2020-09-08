@@ -7,6 +7,7 @@ namespace ConsoleToGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("I Love to Code!");
         }
     }
 }
